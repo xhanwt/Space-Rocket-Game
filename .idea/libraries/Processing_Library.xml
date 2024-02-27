@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Processing Library">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/ant-launcher.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/ant.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/core.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/flatlaf.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/jna-platform.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/jna.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Processing.app/Contents/Java/pde.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
